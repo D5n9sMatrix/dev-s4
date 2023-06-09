@@ -1,0 +1,27 @@
+﻿[Project]
+ProjectName=dev-s4
+Type=1
+MainFile=dev-s4
+PassOneFile=OFF
+TargetName=linux
+FocusOn=
+CompilerArgs=-static
+CompilerOption=-asm intel
+Comment=
+CompilerPath=Z:/home/denis/app/freebasic.de/fbc.exe
+[IncludeDirs]
+[LibDirs]
+[Sources]
+name=gnu/matrix/bin/client/cookies-s4.bas
+name=gnu/matrix/bin/dev-s4.bas
+name=gnu/matrix/bin/doc/group-s4.bas
+name=gnu/matrix/bin/server/soft-business-s4.bas
+name=gnu/matrix/lib/cnn.bas
+name=gnu/matrix/test/section.bas
+name=gnu/matrix/cake/money.bas
+[Includes]
+name=operation/ss.bi
+[Others]
+[Misc]
+name=setup/install.msi
+[Focus]
